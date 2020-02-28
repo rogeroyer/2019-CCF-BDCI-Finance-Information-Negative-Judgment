@@ -9,14 +9,16 @@
 ***
 
 ### 目录结构
-```
-dataSet           # 存放初赛和复赛数据集
-Emotion_Model		  # 情感模型
-Entity_Model		  # 实体模型
-PreTrainModel		  # 预训练模型
-MethodOne			    # 复现方案一
-MethodTwo			    # 复现方案二-最终方案
+```python
+dataSet         # 存放初赛和复赛数据集
+Emotion_Model   # 情感模型
+Entity_Model    # 实体模型
+PreTrainModel   # 预训练模型
+MethodOne       # 复现方案一
+MethodTwo       # 复现方案二-最终方案
+
 ```
 ***
 
 ### 方案说明
+https://blog.csdn.net/roger_royer/article/details/104554685
