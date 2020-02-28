@@ -1,0 +1,14 @@
+- chinese-bert_chinese_wwm_ccy.py                               方案一-模型一
+- chinese_roberta_wwm_ext_10folds_ccy.py                        方案一-模型二
+- chinese_roberta_wwm_ext_5folds_ccy.py                         方案一-模型三
+- chinese_wwm_ext_ccy.py                                        方案一-模型四
+- RoBERTa-large_ccy.py                                          方案一-模型五
+- RoBERTa-wwm-ext-large_ccy.py                                  方案一-模型六
+- roberta_zh_112_ccy.py                                         方案一-模型七
+
+- entity_shell_ccy.sh  模型运行脚本，生成个人投票结果
+- datasets              存放数据集
+- models                存放中间模型
+- model_voting          投票目录
+- submission            保存模型预测结果
+- weights               保存概率

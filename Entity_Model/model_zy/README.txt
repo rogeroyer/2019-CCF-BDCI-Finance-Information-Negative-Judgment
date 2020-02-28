@@ -1,0 +1,11 @@
+- zy_bert_base.py                               方案四-模型一
+- zy_bert_wmmext.py                             方案四-模型二
+- zy_roberta.py                                 方案四-模型三
+- zy_robertawmmext.py                           方案四-模型四
+- zy_robetalarge.py                             方案四-模型五
+- zy_robetawmmlargeext.py                       方案四-模型六
+
+- entity_shell_zy.sh    模型运行脚本，生成个人投票结果
+- model_voting          投票目录
+- model                 保存中间模型
+- result                保存模型预测结果

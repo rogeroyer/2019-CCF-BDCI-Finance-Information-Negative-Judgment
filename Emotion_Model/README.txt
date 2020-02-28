@@ -1,0 +1,8 @@
+- emotion_shell.sh              shell脚本，依次执行完3个情感模型再投票
+- model                         用于存放模型训练过程中的中间模型
+- negative_classify_with_clearn_and_concat_entity_maskEntitys_extend_trainSet-bert_wwm.py       情感模型1
+- negative_classify_with_clearn_and_concat_entity_maskEntitys-roberta-large.py                  情感模型2
+- roberta_wwm_large_ext_emotion_xiong                                                           情感模型3
+- submit                        保存情感模型输出结果以及投票结果
+- voting.py                     情感投票脚本
+- weights                       存放概率

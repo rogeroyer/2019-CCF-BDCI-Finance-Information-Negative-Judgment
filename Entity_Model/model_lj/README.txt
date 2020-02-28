@@ -1,0 +1,11 @@
+- bert_classify_train_with_pos_samples_add_feature_extend_trainSet-PreProcess-bert_base.py              方案二-模型一
+- bert_classify_train_with_pos_samples_add_feature_extend_trainSet-PreProcess-bert_wwm.py               方案二-模型二
+- bert_classify_train_with_pos_samples_add_feature_extend_trainSet-PreProcess-roberta-large.py          方案二-模型三
+- bert_classify_train_with_pos_samples_add_feature_extend_trainSet-PreProcess-roberta-large-wwm-ext.py  方案二-模型四
+- bert_classify_train_with_pos_samples_add_feature_extend_trainSet-PreProcess-roberta-wwm.py            方案二-模型五
+
+- entity_shell_lj.sh    模型运行脚本，生成个人投票结果
+- model                 存放中间模型
+- model_voting          投票目录
+- submit                保存模型预测结果
+- weights               保存概率
